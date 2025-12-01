@@ -1,0 +1,62 @@
+Hospital-Bed-Management-System/
+│
+├── README.md
+│
+├── data/
+│   ├── patient.csv
+│   ├── staff.csv
+│   ├── bed.csv
+│   ├── servicesweekly.csv
+│
+├── notebook/
+│   └── Hospital_Bed_Management.ipynb
+│
+├── outputs/
+│   ├── figures/
+│   │   ├── bed_occupancy.png
+│   │   ├── patient_age.png
+│   │   ├── staff_roles.png
+│   │   └── service_trends.png
+│   └── cleaned_data/
+│       ├── cleaned_patient.csv
+│       ├── cleaned_staff.csv
+│       └── cleaned_bed.csv
+│
+└── report/
+    └── Final_Report.pdf
+
+
+
+
+Hospital_Bed_Management.ipynb
+│
+├── Imports (pandas, numpy, matplotlib, seaborn)
+│
+├── load_data() 
+├── save_cleaned_files()
+│
+├── Class: PatientAnalytics
+│     ├── clean_patient_data()
+│     ├── calculate_length_of_stay()
+│     ├── service_distribution()
+│     └── plot_age_distribution()
+│
+├── Class: StaffAnalytics
+│     ├── clean_staff_data()
+│     ├── staff_count_by_role()
+│     ├── staff_service_mapping()
+│     └── plot_staff_roles()
+│
+├── Class: BedManagement
+│     ├── clean_bed_data()
+│     ├── calculate_occupancy()
+│     ├── icu_utilization()
+│     ├── department_summary()
+│     └── plot_bed_occupancy()
+│
+├── perform_eda()
+├── plot_all_visuals()
+├── generate_summary()
+│
+└── FINAL RUN BLOCK
+      - Load → Clean → Analyze → Visualize → Export → Insights
