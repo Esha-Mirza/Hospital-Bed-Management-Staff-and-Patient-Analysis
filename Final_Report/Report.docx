@@ -1,0 +1,21 @@
+  🏥 HOSPITAL BED MANAGEMENT REPORT
+    
+    1. **Current Situation:**
+       - We have {total_patients} patients
+       - We have {total_staff} staff members
+       - We have {total_beds} beds total
+       - {occupied_beds} beds are occupied ({occupied_beds/total_beds*100:.1f}%)
+    
+    2. **Key Findings:**
+       - Busiest department: [CALCULATE]
+       - Average patient age: {patient_toys['age'].mean():.1f} years
+       - Most needed staff: [CALCULATE]
+    
+    3. **Recommendations:**
+       - [BASED ON FINDINGS]
+       - [ACTION ITEMS]
+    
+    4. **What We Learned:**
+       - How to manage hospital data
+       - Importance of bed management
+       - How data helps make decisions
