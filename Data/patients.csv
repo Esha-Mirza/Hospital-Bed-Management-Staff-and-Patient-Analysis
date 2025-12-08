@@ -16,7 +16,7 @@ PAT-95afe21e,Michelle Harmon,7,2/24/2025,3/3/2025,emergency,62
 PAT-cc50ad71,Helen Jones,31,6/11/2025,6/23/2025,surgery,92
 PAT-0beb4754,Erin Edwards,86,10/15/2025,10/17/2025,general_medicine,66
 PAT-3223420e,Michelle Evans,7,11/9/2025,11/16/2025,emergency,62
-PAT-f0682772,Jason Powell,87,9/12/2025,9/25/2025,general_medicine,67
+PAT-f0682772,,87,9/12/2025,9/25/2025,general_medicine,67
 PAT-af65396f,Cameron Fisher,53,8/27/2025,9/1/2025,emergency,62
 PAT-dbbf6d1f,Megan Orr,50,4/2/2025,4/10/2025,emergency,93
 PAT-5e3f8747,Elizabeth Kelley,34,3/29/2025,4/12/2025,ICU,91
@@ -142,7 +142,7 @@ PAT-62ac02ae,Kimberly Gutierrez,75,2/15/2025,2/21/2025,emergency,81
 PAT-aecf2749,Isaiah Avila,19,7/21/2025,7/29/2025,emergency,91
 PAT-910d00c5,Olivia Harris,1,10/16/2025,10/25/2025,emergency,72
 PAT-1153d980,Tanya Kim,29,3/18/2025,3/22/2025,emergency,85
-PAT-86e1492d,Barbara Dudley,21,7/13/2025,7/19/2025,general_medicine,
+PAT-86e1492d,Barbara Dudley,21,7/13/2025,7/19/2025,general_medicine,98
 PAT-796351fa,Cynthia Moore,89,5/2/2025,5/4/2025,surgery,74
 PAT-45fbe971,Kristen Davis,43,12/26/2025,1/6/2026,emergency,62
 PAT-d70a9eaa,Susan Murray MD,5,9/19/2025,9/28/2025,emergency,98
@@ -224,7 +224,7 @@ PAT-89105c60,Colton Martinez,83,9/20/2025,9/26/2025,ICU,60
 PAT-c0e08cc7,Jordan Bates,43,6/22/2025,7/2/2025,ICU,72
 PAT-a1996f50,Linda Smith,21,10/4/2025,10/10/2025,surgery,87
 PAT-5d438213,Dana Martinez,8,1/9/2025,1/19/2025,surgery,83
-PAT-994866af,Andrea Hubbard,41,6/1/2025,6/2/2025,ICU,85
+PAT-994866af,,41,6/1/2025,6/2/2025,ICU,85
 PAT-51ed4886,Daniel Kane,36,2/19/2025,2/27/2025,ICU,78
 PAT-6fda5c2b,Charles Lester,59,7/21/2025,7/30/2025,general_medicine,77
 PAT-69035998,Scott Thomas,18,8/30/2025,9/4/2025,ICU,94
@@ -237,7 +237,7 @@ PAT-2b558098,Kayla Rodriguez,66,5/5/2025,5/12/2025,surgery,70
 PAT-352bf97c,Theresa Williams,23,10/29/2025,11/1/2025,ICU,63
 PAT-623cbc11,Sharon Boyd,89,2/11/2025,2/18/2025,surgery,95
 PAT-1c834d8e,Victor Brown,35,3/14/2025,3/22/2025,general_medicine,92
-PAT-ab6cb480,James Parks,69,7/15/2025,7/28/2025,emergency,61
+PAT-ab6cb480,,69,7/15/2025,7/28/2025,emergency,61
 PAT-3765ddaf,Theodore Jones Jr.,59,1/27/2025,2/1/2025,emergency,67
 PAT-fe52b6dc,Ana Hill,71,3/8/2025,3/14/2025,surgery,62
 PAT-46c5550c,Kimberly Nguyen,85,5/10/2025,5/17/2025,surgery,61
@@ -383,7 +383,7 @@ PAT-c0a33763,Heather Williams,39,10/11/2025,10/21/2025,surgery,61
 PAT-f894e827,Heather Bolton,24,9/11/2025,9/14/2025,ICU,67
 PAT-88e17ded,William Gould,43,2/11/2025,2/15/2025,emergency,94
 PAT-795870c2,Mark Cox,5,10/6/2025,10/15/2025,general_medicine,78
-PAT-18fbae80,Meghan Cisneros,68,9/24/2025,10/2/2025,general_medicine,71
+PAT-18fbae80,,68,9/24/2025,10/2/2025,general_medicine,71
 PAT-f344d86a,Lawrence Harrington,73,10/24/2025,10/28/2025,ICU,96
 PAT-4d08cb63,Austin Osborne,84,2/24/2025,3/5/2025,ICU,74
 PAT-12b5c5f7,James Bradley,47,4/14/2025,4/16/2025,surgery,79
@@ -505,7 +505,7 @@ PAT-153d6e29,Franklin Wright,10,1/5/2025,1/6/2025,general_medicine,79
 PAT-875ff60a,David Molina,40,1/12/2025,1/18/2025,surgery,76
 PAT-98218167,Elizabeth Sharp,18,10/31/2025,11/12/2025,surgery,91
 PAT-4b0d36e5,Matthew Schwartz,69,7/2/2025,7/12/2025,general_medicine,95
-PAT-5ee95f95,Bryan Parker,74,8/4/2025,8/11/2025,,74
+PAT-5ee95f95,Bryan Parker,74,8/4/2025,8/11/2025,emergency,74
 PAT-bb0d37fb,Jonathan Jacobson,26,7/11/2025,7/20/2025,general_medicine,76
 PAT-b7a3a7b5,Emily Wilson,50,8/7/2025,8/9/2025,emergency,87
 PAT-965208ae,Elizabeth Mendez,50,8/27/2025,8/31/2025,general_medicine,66
@@ -522,7 +522,7 @@ PAT-e0528d5b,Kevin Davis,25,11/23/2025,12/7/2025,emergency,66
 PAT-91801a46,Rhonda Chavez,66,10/19/2025,10/28/2025,emergency,96
 PAT-6fc0d4bc,Joyce Brown,0,2/6/2025,2/19/2025,general_medicine,99
 PAT-8cc62151,Robert Cummings,7,7/7/2025,7/16/2025,emergency,60
-PAT-6f6aab68,Robert Reese,35,7/13/2025,7/21/2025,general_medicine,82
+PAT-6f6aab68,,35,7/13/2025,7/21/2025,general_medicine,82
 PAT-32bcc4bc,Amber Cooper,8,9/17/2025,10/1/2025,surgery,90
 PAT-68f98442,Zachary Michael,74,3/13/2025,3/16/2025,general_medicine,73
 PAT-75899c2c,Timothy Johnson,59,6/22/2025,6/24/2025,emergency,78
@@ -637,12 +637,12 @@ PAT-a67c43c0,Travis Harris,62,6/13/2025,6/15/2025,emergency,88
 PAT-f7527244,Vincent Novak,23,1/4/2025,1/7/2025,ICU,93
 PAT-0e5edb85,Michael Henry,56,6/30/2025,7/8/2025,emergency,82
 PAT-48e68823,Dana Bennett,68,9/11/2025,9/16/2025,general_medicine,65
-PAT-700dfc8e,Jenna Wilson,56,6/17/2025,,surgery,98
+PAT-700dfc8e,Jenna Wilson,56,6/17/2025,6/24/2025,surgery,98
 PAT-62535599,Leslie Gardner,37,11/13/2025,11/17/2025,emergency,62
 PAT-78fbf23e,Krista Benton,50,10/30/2025,11/3/2025,surgery,87
 PAT-c992d6dc,Michael Gonzales,75,8/27/2025,9/5/2025,surgery,64
 PAT-78e6425f,Michael Fuentes,12,11/10/2025,11/12/2025,general_medicine,89
-PAT-608c9812,Jennifer Porter,61,1/25/2025,2/5/2025,emergency,73
+PAT-608c9812,,61,1/25/2025,2/5/2025,emergency,73
 PAT-6d0c98de,Dana Hopkins,56,2/16/2025,2/22/2025,surgery,95
 PAT-4102c22f,Rachel Jones,38,1/22/2025,1/27/2025,ICU,80
 PAT-99cf78d9,Karen Morales DDS,71,9/29/2025,10/10/2025,emergency,90
@@ -652,7 +652,7 @@ PAT-ec3ac1ec,Margaret Miller,16,2/17/2025,2/21/2025,ICU,84
 PAT-274cecf8,Mary Kelly,20,4/12/2025,4/13/2025,emergency,60
 PAT-3ca8e0e7,Amanda Terrell,62,2/20/2025,2/24/2025,emergency,76
 PAT-41d3ebd2,Jennifer Goodwin,87,4/14/2025,4/21/2025,surgery,65
-PAT-487252c6,Jessica Smith,0,6/16/2025,6/29/2025,general_medicine,76
+PAT-487252c6,,0,6/16/2025,6/29/2025,general_medicine,76
 PAT-b00a1c8a,Jorge Stone,33,6/18/2025,7/1/2025,general_medicine,68
 PAT-fe5fc1e8,Laura Griffin,12,9/19/2025,9/23/2025,surgery,62
 PAT-20f95ce5,Raymond Chapman,80,2/18/2025,3/2/2025,general_medicine,60
@@ -738,7 +738,7 @@ PAT-4cda6597,Breanna Ayala,21,10/16/2025,10/30/2025,surgery,76
 PAT-4700c8eb,Brandi Haney,31,5/2/2025,5/12/2025,surgery,95
 PAT-2c237d3c,Joseph Smith,33,8/22/2025,9/3/2025,emergency,70
 PAT-672d2045,Jessica Bowen,77,9/4/2025,9/10/2025,general_medicine,78
-PAT-14fa7097,Brittany Jenkins,14,,6/9/2025,surgery,68
+PAT-14fa7097,Brittany Jenkins,14,6/1/2025,6/9/2025,surgery,68
 PAT-a3b4d804,Shannon Miller,46,1/19/2025,1/22/2025,emergency,69
 PAT-48c5fe53,Paul Lawrence,39,12/20/2025,12/23/2025,general_medicine,72
 PAT-422edaf2,Victor Edwards,0,4/3/2025,4/16/2025,surgery,88
@@ -782,7 +782,7 @@ PAT-32c5b5bf,Kristen Sloan,26,10/5/2025,10/15/2025,ICU,98
 PAT-59318a32,Jennifer Morris,52,7/26/2025,7/30/2025,general_medicine,91
 PAT-750a0a30,Nathan Nelson,22,11/22/2025,11/30/2025,general_medicine,79
 PAT-04a8031e,Jake Shaw,83,6/10/2025,6/22/2025,ICU,67
-PAT-137f292a,Cassie Brock,0,3/4/2025,3/10/2025,emergency,65
+PAT-137f292a,,0,3/4/2025,3/10/2025,emergency,65
 PAT-b755d221,Dr. Andrea Marshall,20,6/12/2025,6/17/2025,ICU,65
 PAT-90e7a0e1,Ryan Murphy,88,7/6/2025,7/14/2025,ICU,99
 PAT-a91cb1a0,Aimee Gonzalez,28,4/14/2025,4/27/2025,general_medicine,97
@@ -883,7 +883,7 @@ PAT-41173daa,Carmen Preston,89,10/26/2025,10/30/2025,emergency,72
 PAT-e52c726d,Brian Harris,51,10/15/2025,10/16/2025,surgery,95
 PAT-e8583ff8,Michael Bowen,59,3/24/2025,4/3/2025,surgery,94
 PAT-815c95f7,Deborah Campbell,55,10/11/2025,10/12/2025,general_medicine,77
-PAT-5cc7a8f3,Anthony Armstrong,47,4/7/2025,4/19/2025,ICU,67
+PAT-5cc7a8f3,,47,4/7/2025,4/19/2025,ICU,67
 PAT-7fcb697b,Brittany Ward,87,5/17/2025,5/25/2025,ICU,71
 PAT-e336cf92,Edward Stanley,30,5/22/2025,6/4/2025,ICU,84
 PAT-de47a134,Christina Johnson,33,9/7/2025,9/15/2025,general_medicine,68
@@ -934,7 +934,7 @@ PAT-9026b07c,Michele Hill,61,12/12/2025,12/24/2025,ICU,91
 PAT-388ea10a,Kathy Reid,65,9/16/2025,9/22/2025,general_medicine,67
 PAT-7912b691,Andre Watson,23,6/20/2025,6/29/2025,general_medicine,98
 PAT-5794ee22,Cassandra Harrell,44,9/21/2025,9/28/2025,surgery,98
-PAT-5fa9792c,Hannah Martin,56,10/13/2025,10/23/2025,ICU,97
+PAT-5fa9792c,,56,10/13/2025,10/23/2025,ICU,97
 PAT-94a68ef3,Nicole Barker,17,7/16/2025,7/21/2025,surgery,88
 PAT-ccc84f5b,James Martin,38,4/8/2025,4/19/2025,ICU,82
 PAT-87356f08,Traci Vincent,68,5/2/2025,5/15/2025,surgery,63
@@ -970,7 +970,7 @@ PAT-7fcb5d8b,David Carter,76,1/21/2025,1/26/2025,surgery,86
 PAT-f752da62,Julie Delacruz,54,10/12/2025,10/16/2025,ICU,84
 PAT-5651b17c,Terry Jones,69,6/13/2025,6/15/2025,general_medicine,81
 PAT-b2fe6226,Kathryn Dillon,15,12/22/2025,1/5/2026,surgery,78
-PAT-c378810a,Edwin Brown,86,5/21/2025,6/1/2025,surgery,88
+PAT-c378810a,,86,5/21/2025,6/1/2025,surgery,88
 PAT-456fd090,Brenda Gonzalez,21,11/25/2025,12/2/2025,ICU,78
 PAT-596d9b6a,Keith Knox,37,4/26/2025,5/5/2025,surgery,79
 PAT-a432ced1,Eugene Baldwin,8,2/19/2025,2/21/2025,ICU,64
@@ -979,7 +979,7 @@ PAT-c0ec69bd,Mark Smith,21,11/20/2025,12/3/2025,surgery,93
 PAT-4abfea64,Philip Jackson,76,5/17/2025,5/27/2025,surgery,90
 PAT-974c0a52,Katherine Gallagher,6,5/27/2025,6/6/2025,ICU,89
 PAT-4e444d5a,Lucas Schultz,30,6/12/2025,6/21/2025,ICU,80
-PAT-b3ba89f4,,60,12/5/2025,12/10/2025,general_medicine,91
+PAT-b3ba89f4,Vincent Reyes,60,12/5/2025,12/10/2025,general_medicine,91
 PAT-1d5f8550,Curtis Watson,65,5/18/2025,5/20/2025,general_medicine,61
 PAT-b9712ea6,Frank Whitaker,59,9/30/2025,10/14/2025,ICU,98
 PAT-0af52f3d,Michael Sims,30,3/29/2025,3/30/2025,general_medicine,70
@@ -995,13 +995,15 @@ PAT-8700b93a,Nicholas Lawrence,9,10/25/2025,11/2/2025,ICU,92
 PAT-e5d6a9cf,Jacob Santos,76,12/27/2025,1/2/2026,ICU,96
 PAT-2fa08c0d,Shawn Scott,79,1/22/2025,1/31/2025,emergency,79
 PAT-a01bf534,Amber Vang,26,12/2/2025,12/4/2025,emergency,91
-PAT-87fa07bd,Martha Smith,89,11/18/2025,11/30/2025,emergency,99
+PAT-87fa07bd,,89,11/18/2025,11/30/2025,emergency,99
 PAT-8f07e894,Jennifer James,72,12/12/2025,12/21/2025,ICU,69
 PAT-4ae301e1,Kara Hernandez,47,2/8/2025,2/20/2025,ICU,61
 PAT-e2ef9c5f,Lorraine Turner,64,5/4/2025,5/8/2025,general_medicine,83
-PAT-5651b17c,Terry Jones,69,6/13/2025,6/15/2025,general_medicine,81
-PAT-11ee6f72,Matthew Davis MD,79,9/28/2025,10/1/2025,emergency,71
-PAT-32bcc4bc,Amber Cooper,8,9/17/2025,10/1/2025,surgery,90
-PAT-807a2946,Kathleen Moran,31,7/23/2025,7/31/2025,emergency,67
-PAT-08591375,Garrett Lin,25,2/18/2025,2/25/2025,ICU,76
-PAT-f4b29bae,Diana May,83,6/26/2025,6/30/2025,emergency,81
+PAT-36e02234,Michael Lyons,5,9/14/2025,9/24/2025,general_medicine,97
+PAT-5cc44627,Kathryn Snyder,14,6/12/2025,6/13/2025,surgery,84
+PAT-333f8368,Andrew Reynolds,23,10/1/2025,10/13/2025,ICU,75
+PAT-a1bec809,Catherine Frazier,46,4/11/2025,4/25/2025,ICU,82
+PAT-90ba3a0f,Brandon Kelly,15,3/12/2025,3/25/2025,surgery,96
+PAT-c5d69767,Katherine Taylor,70,9/23/2025,9/25/2025,general_medicine,84
+PAT-896954ce,Jerry Brown,34,1/2/2025,1/14/2025,ICU,83
+PAT-76b1239a,Adam Taylor,73,1/22/2025,2/1/2025,surgery,98
