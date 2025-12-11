@@ -1,111 +1,111 @@
-Staff_ID,Staff_Name,Role,Service,Job
-STF-5ca26577,Allison Hill,DR,emergency,DR Allison Hill
-STF-02ae59ca,Noah Rhodes,DR,emergency,DR Noah Rhodes
-STF-d8006e7c,Angie Henderson,DR,emergency,DR Angie Henderson
-STF-212d8b31,Daniel Wagner,DR,emergency,DR Daniel Wagner
-STF-107a58e4,Cristian Santos,DR,emergency,DR Cristian Santos
-STF-ca932dea,Connie Lawrence,NS,emergency,NS Connie Lawrence
-STF-39082289,Abigail Shaffer,NS,emergency,NS Abigail Shaffer
-STF-702887af,Gina Moore,NS,emergency,NS Gina Moore
-STF-249f63bb,Gabrielle Davis,NS,emergency,NS Gabrielle Davis
-STF-094f410b,Ryan Munoz,NS,emergency,NS Ryan Munoz
-STF-d7ab0c23,Monica Herrera,NS,emergency,NS Monica Herrera
-STF-e51bdcb4,Jamie Arnold,NS,emergency,NS Jamie Arnold
-STF-8cabb71f,Lisa Hensley,NS,emergency,NS Lisa Hensley
-STF-34c0563d,Michele Williams,NS,emergency,NS Michele Williams
-STF-130577e6,Dylan Miller,NS,emergency,NS Dylan Miller
-STF-768c9d6f,Brian Ramirez,NS,emergency,NS Brian Ramirez
-STF-abec8336,Holly Wood,NS,emergency,NS Holly Wood
-STF-6f6535f8,Derek Zuniga,NS,emergency,NS Derek Zuniga
-STF-b4fb711c,Lisa Jackson,NS,emergency,NS Lisa Jackson
-STF-434f45a6,Carla Gray,NS,emergency,NS Carla Gray
-STF-db5926dd,Margaret Hawkins DDS,NS,emergency,NS Margaret Hawkins DDS
-STF-99227609,Patty Perez,NS,emergency,NS Patty Perez
-STF-fd4df1f4,Ethan Adams,NS,emergency,NS Ethan Adams
-STF-317a74b9,Tommy Walter,NS,emergency,NS Tommy Walter
-STF-1ad309f8,Matthew Foster,NSA,emergency,NSA Matthew Foster
-STF-4ed3b149,Judy Baker,NSA,emergency,NSA Judy Baker
-STF-a8e146c6,Justin Baker,NSA,emergency,NSA Justin Baker
-STF-b9e859d8,Stephanie Ross,NSA,emergency,NSA Stephanie Ross
-STF-bc4c419e,Zachary Hicks,NSA,emergency,NSA Zachary Hicks
-STF-15c07995,Anthony Rodriguez,DR,surgery,DR Anthony Rodriguez
-STF-0aaed714,Rebecca Henderson,DR,surgery,DR Rebecca Henderson
-STF-30d44186,James Ferrell,DR,surgery,DR James Ferrell
-STF-46e008d1,Tricia Valencia,DR,surgery,DR Tricia Valencia
-STF-f2a7bd6f,Nathan Maldonado,NS,surgery,NS Nathan Maldonado
-STF-d7c28217,Debra Davidson,NS,surgery,NS Debra Davidson
-STF-2bfe24c1,Jeffrey Chavez,NS,surgery,NS Jeffrey Chavez
-STF-3abc4202,Sherri Baker,NS,surgery,NS Sherri Baker
-STF-bc33b33b,Cassandra Gaines,NS,surgery,NS Cassandra Gaines
-STF-2c155ebf,Elizabeth Fowler,NS,surgery,NS Elizabeth Fowler
-STF-3007d318,Brittany Farmer,NS,surgery,NS Brittany Farmer
-STF-13f243f8,Paula Moreno,NS,surgery,NS Paula Moreno
-STF-7a5180f0,Fred Smith,NS,surgery,NS Fred Smith
-STF-15269c02,Sherry Decker,NS,surgery,NS Sherry Decker
-STF-36b3e876,Anthony Humphrey,NS,surgery,NS Anthony Humphrey
-STF-177e5df8,Angelica Tucker,NS,surgery,NS Angelica Tucker
-STF-3d6f6916,Philip Cannon,NS,surgery,NS Philip Cannon
-STF-00fbd582,John Pierce,NSA,surgery,NSA John Pierce
-STF-42844552,Shane Henderson,NSA,surgery,NSA Shane Henderson
-STF-1ded4330,Joshua Blair,NSA,surgery,NSA Joshua Blair
-STF-5d51a8ea,Eric Carney,NSA,surgery,NSA Eric Carney
-STF-b19d1900,Jessica Holmes,NSA,surgery,NSA Jessica Holmes
-STF-b4b308d8,Danny Morgan,DR,general_medicine,DR Danny Morgan
-STF-df08bf0e,Crystal Robinson,DR,general_medicine,DR Crystal Robinson
-STF-51ad7d05,Mark Perez,DR,general_medicine,DR Mark Perez
-STF-2e7bf9ac,Shannon Jones,NS,general_medicine,NS Shannon Jones
-STF-866434e1,Michael Lewis,NS,general_medicine,NS Michael Lewis
-STF-b8c738af,Timothy Duncan,NS,general_medicine,NS Timothy Duncan
-STF-d6a78473,Richard Aguirre,NS,general_medicine,NS Richard Aguirre
-STF-bcb3f4fe,Brent Jordan,NS,general_medicine,NS Brent Jordan
-STF-f7ad988b,John Daniel,NS,general_medicine,NS John Daniel
-STF-624c0289,Victoria Garcia,NS,general_medicine,NS Victoria Garcia
-STF-2aeab02a,Gerald Hensley,NS,general_medicine,NS Gerald Hensley
-STF-80c670c1,Connor West,NS,general_medicine,NS Connor West
-STF-a81bb023,Donald Wright,NS,general_medicine,NS Donald Wright
-STF-d569a861,Jessica Callahan,NS,general_medicine,NS Jessica Callahan
-STF-48fc5275,Amber Kidd,NS,general_medicine,NS Amber Kidd
-STF-3ea6bb2e,Tracy House,NS,general_medicine,NS Tracy House
-STF-9dd2c561,Carol Tucker,NS,general_medicine,NS Carol Tucker
-STF-3014d5f2,James Brown,NS,general_medicine,NS James Brown
-STF-98cc6508,William Baker,NS,general_medicine,NS William Baker
-STF-67f5247b,Jordan Henderson,NS,general_medicine,NS Jordan Henderson
-STF-613d0d64,Whitney Peters,NS,general_medicine,NS Whitney Peters
-STF-a74d38db,Brittney Phillips,NS,general_medicine,NS Brittney Phillips
-STF-b3eabf08,Lauren Daniels,NSA,general_medicine,NSA Lauren Daniels
-STF-b5fcdde5,Amy Silva,NSA,general_medicine,NSA Amy Silva
-STF-9b1ae05a,Sarah Moore,NSA,general_medicine,NSA Sarah Moore
-STF-9a4c0716,Angela Lopez,NSA,general_medicine,NSA Angela Lopez
-STF-3b8145ed,Megan Young,NSA,general_medicine,NSA Megan Young
-STF-00b6381d,Steve Sanchez,DR,ICU,DR Steve Sanchez
-STF-cb0c3c50,Lisa Barnes,DR,ICU,DR Lisa Barnes
-STF-dd7b8861,Kelly Donovan,DR,ICU,DR Kelly Donovan
-STF-0b0dfb38,Mike Allen,DR,ICU,DR Mike Allen
-STF-a1659ed6,Michael Evans,DR,ICU,DR Michael Evans
-STF-ab59db32,Paul Jones,DR,ICU,DR Paul Jones
-STF-3bbc468d,Zachary Ferrell,NS,ICU,NS Zachary Ferrell
-STF-6c412e28,Daniel Baker,NS,ICU,NS Daniel Baker
-STF-d7371c06,Shirley Suarez,NS,ICU,NS Shirley Suarez
-STF-d77b1013,Christopher Bass,NS,ICU,NS Christopher Bass
-STF-a94474ff,Lisa Archer,NS,ICU,NS Lisa Archer
-STF-3c9039fc,Aimee Montoya,NS,ICU,NS Aimee Montoya
-STF-cacb7290,Matthew Mcmillan,NS,ICU,NS Matthew Mcmillan
-STF-446cb017,Brian Rodriguez,NS,ICU,NS Brian Rodriguez
-STF-0196d344,Denise Jacobs,NS,ICU,NS Denise Jacobs
-STF-1b299895,Christina Walters,NS,ICU,NS Christina Walters
-STF-22fe9443,John Whitehead,NS,ICU,NS John Whitehead
-STF-e328da72,Anna Henderson,NS,ICU,NS Anna Henderson
-STF-1881ede3,Aaron Wise,NS,ICU,NS Aaron Wise
-STF-1bdb5ff4,Deborah Figueroa,NS,ICU,NS Deborah Figueroa
-STF-5fadf416,Jessica Smith,NS,ICU,NS Jessica Smith
-STF-4993c812,Stephen Mckee,NS,ICU,NS Stephen Mckee
-STF-598bd5c2,Sandra Aguilar,NS,ICU,NS Sandra Aguilar
-STF-fdc1ae8e,Cameron Parker,NS,ICU,NS Cameron Parker
-STF-c479af96,Rebecca Valencia,NSA,ICU,NSA Rebecca Valencia
-STF-79236218,Christine Wright,NSA,ICU,NSA Christine Wright
-STF-55d90e65,Richard Henson,NSA,ICU,NSA Richard Henson
-STF-2c8a995d,Marc Moore,NSA,ICU,NSA Marc Moore
-STF-251c7770,Sharon Cherry,NSA,ICU,NSA Sharon Cherry
-STF-3fb56209,Sierra Johnson,NSA,ICU,NSA Sierra Johnson
-STF-a8c30e00,Evelyn Galvan,NSA,ICU,NSA Evelyn Galvan
-STF-021fdf9f,Sharon Cochran,NSA,ICU,NSA Sharon Cochran
+staff_id,staff_name,role,service
+STF-5ca26577,Allison Hill,doctor,emergency
+STF-02ae59ca,Noah Rhodes,doctor,emergency
+STF-d8006e7c,Angie Henderson,doctor,emergency
+STF-212d8b31,Daniel Wagner,doctor,emergency
+STF-107a58e4,Cristian Santos,doctor,emergency
+STF-ca932dea,Connie Lawrence,nurse,emergency
+STF-39082289,Abigail Shaffer,nurse,emergency
+STF-702887af,Gina Moore,nurse,emergency
+STF-249f63bb,Gabrielle Davis,nurse,emergency
+STF-094f410b,Ryan Munoz,nurse,emergency
+STF-d7ab0c23,Monica Herrera,nurse,emergency
+STF-e51bdcb4,Jamie Arnold,nurse,emergency
+STF-8cabb71f,Lisa Hensley,nurse,emergency
+STF-34c0563d,Michele Williams,nurse,emergency
+STF-130577e6,Dylan Miller,nurse,emergency
+STF-768c9d6f,Brian Ramirez,nurse,emergency
+STF-abec8336,Holly Wood,nurse,emergency
+STF-6f6535f8,Derek Zuniga,nurse,emergency
+STF-b4fb711c,Lisa Jackson,nurse,emergency
+STF-434f45a6,Carla Gray,nurse,emergency
+STF-db5926dd,Margaret Hawkins DDS,nurse,emergency
+STF-99227609,Patty Perez,nurse,emergency
+STF-fd4df1f4,Ethan Adams,nurse,emergency
+STF-317a74b9,Tommy Walter,nurse,emergency
+STF-1ad309f8,Matthew Foster,nursing_assistant,emergency
+STF-4ed3b149,Judy Baker,nursing_assistant,emergency
+STF-a8e146c6,Justin Baker,nursing_assistant,emergency
+STF-b9e859d8,Stephanie Ross,nursing_assistant,emergency
+STF-bc4c419e,Zachary Hicks,nursing_assistant,emergency
+STF-15c07995,Anthony Rodriguez,doctor,surgery
+STF-0aaed714,Rebecca Henderson,doctor,surgery
+STF-30d44186,James Ferrell,doctor,surgery
+STF-46e008d1,Tricia Valencia,doctor,surgery
+STF-f2a7bd6f,Nathan Maldonado,nurse,surgery
+STF-d7c28217,Debra Davidson,nurse,surgery
+STF-2bfe24c1,Jeffrey Chavez,nurse,surgery
+STF-3abc4202,Sherri Baker,nurse,surgery
+STF-bc33b33b,Cassandra Gaines,nurse,surgery
+STF-2c155ebf,Elizabeth Fowler,nurse,surgery
+STF-3007d318,Brittany Farmer,nurse,surgery
+STF-13f243f8,Paula Moreno,nurse,surgery
+STF-7a5180f0,Fred Smith,nurse,surgery
+STF-15269c02,Sherry Decker,nurse,surgery
+STF-36b3e876,Anthony Humphrey,nurse,surgery
+STF-177e5df8,Angelica Tucker,nurse,surgery
+STF-3d6f6916,Philip Cannon,nurse,surgery
+STF-00fbd582,John Pierce,nursing_assistant,surgery
+STF-42844552,Shane Henderson,nursing_assistant,surgery
+STF-1ded4330,Joshua Blair,nursing_assistant,surgery
+STF-5d51a8ea,Eric Carney,nursing_assistant,surgery
+STF-b19d1900,Jessica Holmes,nursing_assistant,surgery
+STF-b4b308d8,Danny Morgan,doctor,general_medicine
+STF-df08bf0e,Crystal Robinson,doctor,general_medicine
+STF-51ad7d05,Mark Perez,doctor,general_medicine
+STF-2e7bf9ac,Shannon Jones,nurse,general_medicine
+STF-866434e1,Michael Lewis,nurse,general_medicine
+STF-b8c738af,Timothy Duncan,nurse,general_medicine
+STF-d6a78473,Richard Aguirre,nurse,general_medicine
+STF-bcb3f4fe,Brent Jordan,nurse,general_medicine
+STF-f7ad988b,John Daniel,nurse,general_medicine
+STF-624c0289,Victoria Garcia,nurse,general_medicine
+STF-2aeab02a,Gerald Hensley,nurse,general_medicine
+STF-80c670c1,Connor West,nurse,general_medicine
+STF-a81bb023,Donald Wright,nurse,general_medicine
+STF-d569a861,Jessica Callahan,nurse,general_medicine
+STF-48fc5275,Amber Kidd,nurse,general_medicine
+STF-3ea6bb2e,Tracy House,nurse,general_medicine
+STF-9dd2c561,Carol Tucker,nurse,general_medicine
+STF-3014d5f2,James Brown,nurse,general_medicine
+STF-98cc6508,William Baker,nurse,general_medicine
+STF-67f5247b,Jordan Henderson,nurse,general_medicine
+STF-613d0d64,Whitney Peters,nurse,general_medicine
+STF-a74d38db,Brittney Phillips,nurse,general_medicine
+STF-b3eabf08,Lauren Daniels,nursing_assistant,general_medicine
+STF-b5fcdde5,Amy Silva,nursing_assistant,general_medicine
+STF-9b1ae05a,Sarah Moore,nursing_assistant,general_medicine
+STF-9a4c0716,Angela Lopez,nursing_assistant,general_medicine
+STF-3b8145ed,Megan Young,nursing_assistant,general_medicine
+STF-00b6381d,Steve Sanchez,doctor,ICU
+STF-cb0c3c50,Lisa Barnes,doctor,ICU
+STF-dd7b8861,Kelly Donovan,doctor,ICU
+STF-0b0dfb38,Mike Allen,doctor,ICU
+STF-a1659ed6,Michael Evans,doctor,ICU
+STF-ab59db32,Paul Jones,doctor,ICU
+STF-3bbc468d,Zachary Ferrell,nurse,ICU
+STF-6c412e28,Daniel Baker,nurse,ICU
+STF-d7371c06,Shirley Suarez,nurse,ICU
+STF-d77b1013,Christopher Bass,nurse,ICU
+STF-a94474ff,Lisa Archer,nurse,ICU
+STF-3c9039fc,Aimee Montoya,nurse,ICU
+STF-cacb7290,Matthew Mcmillan,nurse,ICU
+STF-446cb017,Brian Rodriguez,nurse,ICU
+STF-0196d344,Denise Jacobs,nurse,ICU
+STF-1b299895,Christina Walters,nurse,ICU
+STF-22fe9443,John Whitehead,nurse,ICU
+STF-e328da72,Anna Henderson,nurse,ICU
+STF-1881ede3,Aaron Wise,nurse,ICU
+STF-1bdb5ff4,Deborah Figueroa,nurse,ICU
+STF-5fadf416,Jessica Smith,nurse,ICU
+STF-4993c812,Stephen Mckee,nurse,ICU
+STF-598bd5c2,Sandra Aguilar,nurse,ICU
+STF-fdc1ae8e,Cameron Parker,nurse,ICU
+STF-c479af96,Rebecca Valencia,nursing_assistant,ICU
+STF-79236218,Christine Wright,nursing_assistant,ICU
+STF-55d90e65,Richard Henson,nursing_assistant,ICU
+STF-2c8a995d,Marc Moore,nursing_assistant,ICU
+STF-251c7770,Sharon Cherry,nursing_assistant,ICU
+STF-3fb56209,Sierra Johnson,nursing_assistant,ICU
+STF-a8c30e00,Evelyn Galvan,nursing_assistant,ICU
+STF-021fdf9f,Sharon Cochran,nursing_assistant,ICU
